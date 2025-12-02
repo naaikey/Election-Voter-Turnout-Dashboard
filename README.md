@@ -45,9 +45,7 @@ pip install openpyxl
 
 ## 5. How to Run the Dashboard
 
-From the same folder (with `dashboard.py` and `1100378_Final_Election_data.xlsx`), run:
-
-python dashboard.py
+From the same folder (with `dashboard.py` and `1100378_Final_Election_data.xlsx`), run: python dashboard.py
 
 If successful, the terminal will show a message similar to:
 Dash is running on http://127.0.0.1:8050/
